@@ -1,3 +1,12 @@
+/*******************************************************
+ * Copyright (C) 2017 David Freire <dfreire (dot) inbox (at) gmail (dot) com>
+ * 
+ * This file is part of Nature Project 1.
+ * 
+ * Nature Project 1 can not be copied and/or distributed without the express
+ * permission of David Freire.
+ *******************************************************/
+
 //Initialize variables
 //Walker default size
 var x_size = 48;
